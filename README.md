@@ -1,11 +1,10 @@
-<div style="text-align: center;">
+<div align="center">
   <div style="
     border-radius: 1em;
     overflow: hidden;
   ">
     <img src="res/banner.png" alt="banner" style="width: 60em;">
   </div>
-  <div style="height: 1em;"></div>
   <h1>Hi 👋🏻, I'm Hossein Mojadami</h1>
   <p>A professional system level programmer from Iran</p>
 </div>
@@ -17,7 +16,7 @@ I am obsessed with the fundamental art of creation.\
 My passion lies in building complex systems from the ground up,\
 with a deep reverence for performance, elegance, and control.\
 \
-I DON'T JUST USE TOOLS!\
+**I DON'T JUST USE TOOLS!**\
 \* I understand, reinvent, and build them.
 
 ---
@@ -43,7 +42,8 @@ believing that powerful software must also be intuitive and a pleasure to use.<b
 
 ---
 <details>
-  <summary><b>My drive is simple:</b></summary>
+  <summary><b>My Drive</b></summary>
+&nbsp; is simple<br>
 &nbsp; to understand, to build, and to optimize.<br>
 &nbsp; I am always seeking the perfect balance between raw performance and sublime user experience.
 </details>
@@ -55,23 +55,34 @@ believing that powerful software must also be intuitive and a pleasure to use.<b
 I’m driven by a **dream** to become a *world-class programmer*!\
 not just to grow *professionally* but to build a meaningful **future** with someone who **inspires me**. 🌍
 
-<div style="
-  text-align: center;
-  margin-top: 4em;
-">
-  <div style="height: 1em;"></div>
+<br>
+
+<div align="center">
   <h1>🌍 <i>About Me</i></h1>
   <p>Multilingual Connector</p>
-  <pre style="max-width: 60em; text-align: left; display: inline-block;">
+  <table><tr>
+    <td style="
+    background-color: #101016;
+    padding: 1em;
+    border-radius: 0.5em;
+    font-size: 1.2em;
+  ">
 Beyond the code, I have a natural talent for connecting with people and building lasting friendships.<br>
+<br>
 I speak English, Arabic, and Farsi, and I love making new connections and meeting good people.<br>
+<br>
 My greatest joy comes from building real, genuine relationships and helping others grow. I love teaching, sharing knowledge, and supporting people to reach their best version and find happiness. I'm known for being a kind and positive person, and I cherish the deep friendships I've made along the way.<br>
-I believe in helping generously, while also maintaining the focus needed to bring my own visions to life.</pre>
-  <div style="height: 5em;"></div>
+<br>
+I believe in helping generously, while also maintaining the focus needed to bring my own visions to life.
+    </td>
+  </tr></table>
+
+  <br>
+
   <h1><b>Let’s Create Something Amazing Together! ✨</b></h1>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
 
 [![](https://shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dreamProgrammer)
 [![](https://shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/20_Hossein_07)
